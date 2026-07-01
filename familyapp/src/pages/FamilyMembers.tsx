@@ -13,7 +13,7 @@ import {
   AlertDialogHeader,
   AlertDialogTitle,
 } from "@/app/components/ui/alert-dialog";
-import { Users, Plus, X, Loader2, Crown, User, Shield } from "lucide-react";
+import { Users, Plus, X, Loader2, Crown, Shield } from "lucide-react";
 
 export function FamilyMembers() {
   const { user } = useAuth();
